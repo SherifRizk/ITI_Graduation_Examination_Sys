@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Grade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: black;
+            padding: 20px;
+        }
+
+        h1 {
+            color: black;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #dee2e6;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f8f9fa;
+            color: black;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #ddd;
+        }
+
+        th:first-child, td:first-child {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>ITI Examination System</h1>
+    <h2>Student Grades</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Student ID</th>
+                <th>Grade</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{student_id}}</td>
+                <td>{{student_grade}}</td>
+            </tr>
+            <!-- Additional rows can be inserted dynamically here -->
+        </tbody>
+    </table>
+</body>
+</html>

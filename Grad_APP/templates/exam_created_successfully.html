@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exam Created Successfully</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: black;
+            padding: 20px;
+        }
+
+        h1 {
+            color: black;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: red;
+            text-align: left;
+        }
+
+        form {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            padding: 20px;
+            border-radius: 5px;
+            text-align: center; /* Center the button in the form */
+        }
+
+        button {
+            width: auto;
+            background-color: red;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 20px; /* Add some space above the button */
+        }
+
+        button:hover {
+            background-color: darkred;
+        }
+    </style>
+</head>
+<body>
+    <h1>ITI Examination System</h1>
+    <h2>Exam Created Successfully</h2>
+    <form action="/show_exam" method="post">
+        <input type="hidden" name="exam_title" value="{{ exam_title }}">
+        <button type="submit">Show Exam</button>
+    </form>
+</body>
+</html>

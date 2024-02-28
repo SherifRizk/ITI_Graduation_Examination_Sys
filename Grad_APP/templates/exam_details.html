@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exam Details</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: black;
+            padding: 20px;
+        }
+
+        h1 {
+            color: black;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: red;
+            text-align: left;
+        }
+
+        form {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .question {
+            margin-bottom: 15px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            padding: 5px;
+        }
+
+        input[type=radio] {
+            margin-right: 10px;
+        }
+
+        button {
+            width: auto;
+            background-color: red;
+            color: white;
+            padding: 10px 15px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: darkred;
+        }
+    </style>
+</head>
+<body>
+    <h1>ITI Examination System</h1>
+    <h2>Exam Questions</h2>
+    <form id="examForm">
+        <!-- Server-side template loop for questions -->
+        {% for question in questions %}
+        <div>
+            <p><b>Question:</b> {{ question.text }}</p>
+            <div class="question" data-question-id="{{ question.qid }}">
+                <ul>
+                    {% for choice in question.choices %}
+                    <li>
+                        <input type="radio" name="answer{{ question.qid }}" value="{{ choice }}"> {{ choice }}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        {% endfor %}
+        <button type="submit">Submit Exam</button>
+    </form>
+    <div id="examResult"></div>
+
+    <script>
+    $(document).ready(function() {
+    $('#examForm').on('submit', function(e) {
+        e.preventDefault();
+        var answers = [];
+        $('.question').each(function() {
+            var questionId = $(this).data('question-id');
+            var answer = $(this).find('input[type="radio"]:checked').val();
+            if(answer) { // Only add if an answer was selected
+                answers.push({
+                    question_id: questionId,
+                    answer: answer
+                });
+            }
+        });
+        var examId = {{ exam_id }}; // Pass the exam ID to JavaScript
+        var studentId = {{ student_id }}; // Ensure this is securely handled
+
+        $.ajax({
+            url: '/submit_exam',
+            type: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify({
+                exam_id: examId,
+                student_id: studentId,
+                answers: answers
+            }),
+            success: function(response) {
+                // Assuming 'response' contains the grade.
+                // Redirect to the URL pattern provided.
+                // You'll need to adjust how you retrieve 'grade' based on the actual structure of 'response'.
+                var grade = response.grade; // Adjust this based on your response structure
+                // Assuming 'resultObject' is the object you want to pass as a parameter
+                console.log(grade)
+                var jsonString = JSON.stringify(grade);
+                var encodedJsonString = encodeURIComponent(jsonString);
+
+                // Redirect to the server with the serialized and encoded object data
+                // window.location.href = '/exam_result?result=' + encodedJsonString;
+
+                window.location.href = '/results/' + studentId + '/' + grade;
+            },
+            error: function() {
+                $('#examResult').html('Error submitting exam.');
+            }
+        });
+    });
+});
+
+    </script>
+</body>
+</html>

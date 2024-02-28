@@ -1,0 +1,8 @@
+Dept_ID,Dept_Name,Dept_Location,Dept_Description,Manager_ID
+10,SD,Cairo,System Development,1
+20,EL,Mansoura,E-Learning,2
+30,Java,Cairo,Java,3
+40,MM,Alex,Multimedia,4
+50,Unix,Alex,Unix,5
+60,NC,Cairo,Network,6
+70,EB,Alex,E-Business,7

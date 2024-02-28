@@ -1,0 +1,96 @@
+Freelanc_ID,Job_Name,Job_Website,Job_StartDate,Job_Tools,Feedback_Rating,ST_ID
+1,Brand Design,Guru,7/1/2020,Adobe PhotoShop,4,68
+2,Company Logo Design,We Work Remotely,10/31/2022,Adobe PhotoShop,5,87
+3,Design T-shirt Logo,khamsat,2/1/2021,Adobe PhotoShop,3,60
+4,Company Logo Design,We Work Remotely,10/24/2020,Adobe PhotoShop,4,83
+5,Build a website,Upwork,4/28/2022,JAVA,5,4
+6,UI/UX Website review,khamsat,4/26/2020,JAVA,4,21
+7,Image Analysis,Freelancer,5/21/2022,Python,5,93
+8,Python Developer,khamsat,6/27/2021,Python,5,91
+9,SQL Query for views,khamsat,8/28/2022,Python,5,3
+10,Data Analyst for Excel,Freelancer,1/5/2022,Python,4,53
+11,Data Extract,Upwork,11/13/2021,Python,4,6
+12,Tableau Expert,Upwork,12/21/2021,Python,4,16
+13,Power BI Developer,Guru,5/23/2021,Python,4,72
+14,Power bi data scraping,khamsat,8/3/2022,Python,4,7
+15,Computer Vision Image Set Comparison,Freelancer,4/21/2022,Python,4,39
+16,Table extraction from pdf documents,We Work Remotely,1/28/2021,Python,5,20
+17,Data Extract,Guru,7/17/2021,Python,5,67
+18,Build Python Project,khamsat,8/23/2020,Python,5,29
+19,DESIGN INTERACTIVE BOARDS,Behance,3/24/2021,Python,5,79
+20,Create professional interactive boards,Freelancer,2/3/2020,Python,5,34
+21,Dashboard and charts,Freelancer,3/27/2020,Python,5,10
+22,Prepare Excel file with interactive dashboard,Guru,11/29/2021,Adobe PhotoShop,5,26
+23,Call center,Freelancer,3/21/2021,Adobe PhotoShop,5,90
+24,Call center,khamsat,2/29/2020,Adobe PhotoShop,5,77
+25,Call center,PeoplePerHour,9/3/2022,Adobe PhotoShop,5,25
+26,Data entry clerk,Behance,3/23/2022,Adobe PhotoShop,5,48
+27, Photographer,We Work Remotely,5/14/2021,Adobe PhotoShop,5,71
+28,Copywriter,Freelancer,2/5/2021,Adobe PhotoShop,5,2
+29,Graphic designer,Guru,12/15/2021,Adobe PhotoShop,5,51
+30,Data Extract,Freelancer,7/27/2022,Adobe PhotoShop,5,42
+31,Panner Design,PeoplePerHour,10/27/2021,Adobe PhotoShop,5,76
+32,Company Logo Design,khamsat,3/29/2022,Adobe PhotoShop,5,13
+33,Data entry clerk,Behance,3/21/2022,Adobe PhotoShop,5,37
+34,Company Logo Design,Upwork,8/17/2022,Adobe PhotoShop,3,32
+35,Copy editor,PeoplePerHour,6/20/2022,Adobe PhotoShop,3,33
+36, Photographer,Behance,1/10/2021,Adobe PhotoShop,3,95
+37,Graphic designer,Fiver,12/6/2021,Adobe PhotoShop,5,63
+38,Brand Design,PeoplePerHour,5/12/2021,Adobe PhotoShop,5,8
+39,Company Logo Design,Guru,6/3/2020,Adobe PhotoShop,5,30
+40,Design T-shirt Logo,Behance,4/13/2021,Adobe PhotoShop,5,78
+41,Company Logo Design,Guru,2/11/2022,Adobe PhotoShop,5,58
+42,Build a website,Upwork,8/23/2020,Adobe PhotoShop,5,40
+43,UI/UX Website review,We Work Remotely,8/10/2021,Adobe PhotoShop,5,22
+44,Image Analysis,Freelancer,1/13/2021,Adobe PhotoShop,5,69
+45,Python Developer,Freelancer,1/13/2021,SQL,5,24
+46,SQL Query for views,Behance,12/22/2020,SQL,5,92
+47,Data Analyst for Excel,Fiver,9/2/2020,SQL,5,86
+48,Data Extract,Freelancer,12/17/2022,SQL,5,89
+49,Tableau Expert,Freelancer,9/6/2022,SQL,5,80
+50,Power BI Developer,Guru,12/8/2021,SQL,5,62
+51,Power bi data scraping,khamsat,5/9/2022,SQL,5,66
+52,Computer Vision Image Set Comparison,Guru,7/20/2021,SQL,5,82
+53,Table extraction from pdf documents,PeoplePerHour,3/15/2021,SQL,5,38
+54,Data Extract,Upwork,3/15/2021,SQL,5,61
+55,Build Python Project,Freelancer,1/30/2022,SQL,5,28
+56,DESIGN INTERACTIVE BOARDS,Freelancer,1/28/2022,SQL,5,59
+57,Create professional interactive boards,We Work Remotely,2/15/2021,Power BI,5,41
+58,Dashboard and charts,Freelancer,9/2/2021,Power BI,5,35
+59,Prepare Excel file with interactive dashboard,Freelancer,8/12/2021,Power BI,5,46
+60,Call center,Fiver,12/4/2020,Power BI,5,52
+61,Call center,Guru,3/24/2021,Power BI,5,94
+62,Call center,We Work Remotely,2/5/2020,Power BI,5,54
+63,Data entry clerk,Guru,1/14/2022,Power BI,5,49
+64, Photographer,We Work Remotely,4/15/2021,Power BI,5,55
+65,Copywriter,Fiver,8/14/2022,Power BI,5,44
+66,Graphic designer,We Work Remotely,2/1/2020,Power BI,5,50
+67,Data Extract,Upwork,3/11/2020,Power BI,5,81
+68,Panner Design,Upwork,9/18/2022,Power BI,5,12
+69,Company Logo Design,Guru,11/2/2022,Power BI,5,1
+70,Data entry clerk,Freelancer,11/6/2021,Power BI,5,57
+71,Company Logo Design,Guru,2/14/2020,Power BI,5,36
+72,Copy editor,We Work Remotely,4/10/2021,Power BI,5,64
+73, Photographer,We Work Remotely,3/25/2022,Power BI,5,70
+74,Graphic designer,Freelancer,3/7/2020,Power BI,5,31
+75,Brand Design,Fiver,3/21/2020,Power BI,5,15
+76,Company Logo Design,Upwork,7/14/2021,Power BI,5,9
+77,Design T-shirt Logo,Fiver,5/15/2021,Power BI,5,19
+78,Company Logo Design,Freelancer,6/6/2021,Power BI,5,45
+79,Build a website,We Work Remotely,9/27/2021,Power BI,5,88
+80,UI/UX Website review,PeoplePerHour,4/24/2022,Power BI,5,27
+81,Image Analysis,Guru,11/1/2020,Power BI,5,74
+82,Python Developer,Upwork,4/6/2020,Power BI,5,65
+83,SQL Query for views,Freelancer,2/16/2022,Power BI,5,18
+84,Data Analyst for Excel,Freelancer,1/7/2023,Excel,5,11
+85,Data Extract,PeoplePerHour,2/25/2022,Excel,5,56
+86,Tableau Expert,khamsat,8/29/2022,Tableau,5,47
+87,Power BI Developer,Freelancer,7/21/2022,Pyhton,5,73
+88,Power bi data scraping,Freelancer,9/11/2022,Pyhton,5,84
+89,Computer Vision Image Set Comparison,Freelancer,5/7/2020,Pyhton,5,85
+90,Table extraction from pdf documents,Upwork,5/30/2022,Pyhton,5,23
+91,Data Extract,Guru,11/10/2021,Pyhton,5,17
+92,Build Python Project,Guru,3/23/2021,Pyhton,5,5
+93,DESIGN INTERACTIVE BOARDS,khamsat,1/18/2020,Pyhton,5,14
+94,Create professional interactive boards,Freelancer,12/24/2022,Pyhton,5,75
+95,Dashboard and charts,Guru,9/13/2020,Power BI,5,43

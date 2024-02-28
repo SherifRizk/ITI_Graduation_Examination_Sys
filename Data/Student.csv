@@ -1,0 +1,200 @@
+ST_ID,ST_SSN,ST_Fname,ST_Lname,ST_BirthDate,ST_Age,ST_City,ST_Gender,Intake_ID,Track_ID
+1,123456789,Andrew,Ashraf,1997-03-15,26,Fayoum,Male,40,1
+2,234567890,Shrerif,Rizk,1998-09-22,25,Fayoum,Male,40,1
+3,345678901,Abd Ellatif,Nagy,1995-11-07,28,Luxor,Male,40,1
+4,456789012,Fathi,Elsayed,1999-04-30,24,Tanta,Male,40,1
+5,567890123,Alaa,Ahmed,1996-08-12,27,Port Said,Female,40,1
+6,678901234,Layla,Elshehaby,1994-12-25,29,Suez,Female,40,1
+7,789012345,Mahmoud,Elwany,2000-02-18,23,Luxor,Male,40,1
+8,890123456,Dina,Gaber,1993-06-09,30,Mansoura,Female,40,1
+9,901234567,Hesham,Gouda,1992-10-14,31,Tanta,Male,40,1
+10,12345678,Salma,Helal,1998-01-28,26,Asyut,Female,40,1
+11,234567890,Karim,Khedr,1997-07-03,26,Fayoum,Male,40,1
+12,345678901,Yasmin,Mostafa,1996-05-19,27,Damietta,Female,40,2
+13,456789012,Mustafa,Ragab,1995-09-08,28,Zagazig,Male,40,2
+14,567890123,Aya,Salah,1991-11-11,32,Minya,Male,40,2
+15,678901234,Hassan,Shalaby,1990-04-05,33,Sohag,Female,40,2
+16,789012345,Rana,Zaki,1999-08-27,24,Qena,Female,40,2
+17,890123456,Kareem,Nassar,1994-12-10,29,Banha,Male,40,2
+18,901234567,Amira,Fathy,1993-02-16,30,Assiut,Female,40,2
+19,12345678,Hatem,Abdelmegid,1992-06-20,31,Beni Suef,Male,40,2
+20,123456789,Mona,Elshenawy,1991-10-31,32,Ismailia,Female,40,2
+21,234567890,Adel,Elbadrawy,1996-03-24,27,Kafr El Sheikh,Male,40,2
+22,345678901,Asmaa,Elhennawy,1995-05-02,28,Damanhur,Female,40,2
+23,456789012,Khaled,Elabbasy,1990-09-14,33,Al Mahalla Al Kubra,Male,40,3
+24,567890123,Rawan,Elsherbasy,1998-11-29,25,Hurghada,Female,40,3
+25,678901234,Emad,Elhaddad,1997-01-17,27,Arish,Male,40,3
+26,789012345,Hana,Elganainy,1999-06-05,24,Mallawi,Female,40,3
+27,890123456,Adham,Eltahan,1993-08-23,30,Marsa Matruh,Male,40,3
+28,901234567,Lamia,Elsabagh,1992-12-06,31,Desouk,Female,40,3
+29,12345678,Tarek,Elgabry,1991-02-11,32,Girga,Male,40,3
+30,234567890,Fatma,Elshabrawy,1990-10-01,33,Shibin El Kom,Female,40,3
+31,345678901,Ramy,Elgarawany,1995-04-18,28,Bani Mazar,Male,40,3
+32,456789012,Gehad,Elsharawy,1994-07-26,29,Kafr El Dawwar,Female,40,3
+33,567890123,Samir,Elmoselhy,1998-12-09,25,Damietta,Male,40,4
+34,678901234,Soha,Elsaidy,1997-02-20,26,Mit Ghamr,Female,40,4
+35,789012345,Hossam,Eltoukhy,1996-06-03,27,Abu Kabir,Male,40,4
+36,890123456,Yara,Elhalwany,1990-08-29,33,Saloum,Female,40,4
+37,901234567,Sherine,Elsherbasy,1999-10-12,24,Edku,Female,40,4
+38,12345678,Omar,Elbeleidy,1994-01-06,30,Talkha,Male,40,4
+39,234567890,Laila,Elzoghbi,1993-05-21,30,El-Qantara,Female,40,4
+40,345678901,Ali,Elramly,1992-09-30,31,Ibsheway,Male,40,4
+41,456789012,Hend,Elbeir,1991-11-15,32,Metoubes,Female,40,4
+42,567890123,Hany,Elsheemy,1990-03-27,33,Kafr Saad,Male,40,4
+43,678901234,Inas,Elbehey,1998-05-11,25,Sharm El Sheikh,Female,40,5
+44,789012345,Magdy,Elbohy,1997-09-26,26,Rosetta,Male,40,5
+45,890123456,Rasha,Elbennawy,1996-12-17,27,Edfu,Female,40,5
+46,901234567,Sameh,Elguindy,1995-02-04,28,Baltim,Male,40,5
+47,12345678,Amal,Elmessiry,1994-06-14,29,Abu Hummus,Female,40,5
+48,234567890,Ahmed,Elghandour,1993-10-07,30,Rosetta,Male,40,5
+49,345678901,Rehab,Elganzoury,1992-01-20,32,Bilbeis,Female,40,5
+50,456789012,Nader,Elabady,1991-07-31,32,Samannoud,Male,40,5
+51,567890123,Rania,Ibrahim,1990-11-22,33,Derbent,Female,40,5
+52,678901234,Said,Ali,1999-03-04,24,Badr,Male,40,5
+53,789012345,Heba,Mohamed,1998-07-15,25,Qift,Female,40,6
+54,890123456,Mina,Abdelaziz,1997-11-28,26,Naqada,Male,40,6
+55,901234567,Basma,Hussein,1996-01-13,28,Armant,Female,40,6
+56,12345678,Wael,Ahmed,1995-05-27,28,Abnub,Male,40,6
+57,234567890,Shahira,Said,1994-09-08,29,Tamiya,Female,40,6
+58,345678901,Akram,Hassan,1993-01-31,31,Dishna,Male,40,6
+59,456789012,Noha,Mahmoud,1992-06-13,31,Quesna,Female,40,6
+60,567890123,Essam,Khalil,1991-08-24,32,Ashmun,Male,41,6
+61,678901234,Shahinaz,Abdelrahman,1990-12-05,33,Mit Badr,Female,41,6
+62,789012345,Rafik,Taha,1998-02-18,25,Minyat an Nasr,Male,41,6
+63,890123456,Esraa,Mansour,1997-06-02,26,Abu Qurqas,Female,41,6
+64,901234567,Raafat,Khalid,1996-10-15,27,Farshut,Male,41,1
+65,12345678,Mayar,Kamal,1995-12-29,28,Dar as Salam,Female,41,1
+66,234567890,Yehia,Abdelhameed,1994-04-11,29,Al-Hammam,Male,41,1
+67,345678901,Mona,Abdelmoneim,1993-08-03,30,Al-Balyana,Female,41,1
+68,456789012,Mohsen,Abdelwahab,1992-11-16,31,Sidi Salem,Male,41,1
+69,567890123,Rasha,Abdelnasser,1991-03-29,32,Kafr az Zayyat,Female,41,1
+70,678901234,Ahmed,Amer,1990-07-10,33,Idfu,Male,41,1
+71,789012345,Abeer,Abdelfattah,1999-09-23,24,Beni Mazar,Female,41,1
+72,890123456,Mohamed,Elsayed,1998-01-05,26,Kawm Hamada,Male,41,1
+73,901234567,Malak,Elshazly,1997-05-19,26,Qalat Dibbin,Female,41,1
+74,12345678,Nabil,Elgabry,1996-09-29,27,Qina,Male,41,1
+75,234567890,Shaimaa,Elashry,1995-11-11,28,Akhmim,Female,41,1
+76,345678901,Medhat,Eltaher,1994-03-25,29,Abu Tig,Male,41,2
+77,456789012,Lobna,Elbarbary,1993-07-06,30,Abu al-Matamir,Female,41,2
+78,567890123,Sayed,Elzoghby,1992-11-17,31,Matay,Male,41,2
+79,678901234,Samar,Elshafie,1991-01-30,33,Al-Hamra,Female,41,2
+80,789012345,Tamer,Elbana,1990-06-12,33,Al-Fashn,Male,41,2
+81,890123456,Hanan,Elsayed,1998-08-25,25,Akhmim,Female,41,2
+82,901234567,Fathy,Elagamy,1997-12-08,26,Ihnasiya,Male,41,2
+83,12345678,Rehab,Elhadary,1996-02-21,27,Arment,Female,41,2
+84,234567890,Khaled,Elbadawy,1995-06-06,28,Akhmim,Male,41,2
+85,345678901,Yasmeen,Eldesoky,1994-10-18,29,Tima,Female,41,2
+86,456789012,Ibrahim,Elshorbagy,1993-02-01,31,Kharga,Male,41,2
+87,567890123,Ola,Elsherbiny,1992-05-15,31,Balat,Female,41,2
+88,678901234,Khaled,Elsaid,1991-09-25,32,Aswan,Male,41,3
+89,789012345,Lina,Elrefaey,1990-01-06,34,Qift,Female,41,3
+90,890123456,Hossam,Elmasry,1999-03-21,24,Aswan,Male,41,3
+91,901234567,Nadia,Elnaggar,1998-07-02,25,Qift,Female,41,3
+92,12345678,Hatem,Eldemery,1997-11-15,26,Aswan,Male,41,3
+93,234567890,Reem,Elwakil,1996-01-28,28,Sohag,Female,41,3
+94,345678901,Nasser,Elzomor,1995-05-11,28,Suhag,Male,41,3
+95,456789012,Shaima,Elshemy,1994-09-24,29,Aswan,Female,41,3
+96,567890123,Sherif,Elbendary,1993-02-06,30,Luxor,Male,41,3
+97,678901234,Asmaa,Elbehiry,1992-06-19,31,Aswan,Female,41,3
+98,789012345,Ayman,Elsheikh,1991-08-02,32,Aswan,Male,41,3
+99,890123456,Reham,Elhadad,1990-12-14,33,Sohag,Female,41,3
+100,901234567,Tarek,Eltayeb,1998-04-26,25,Aswan,Male,41,3
+101,12345678,Amr,Abdelbaky,1997-09-07,26,Kafr El Dawwar,Male,41,3
+102,234567890,Ghada,Abouzeid,1996-11-19,27,Al-Badari,Female,41,4
+103,345678901,Walid,Elmasri,1995-03-04,28,Sidi Barrani,Male,41,4
+104,456789012,Ghina,Elrawi,1994-07-17,29,Faraskur,Female,41,4
+105,567890123,Sherif,Elshaarawy,1993-11-29,30,Idku,Male,41,4
+106,678901234,Hadeer,Elshehaby,1993-04-12,30,Shubra Khit,Female,41,4
+107,789012345,Yasser,Elwany,1992-08-25,31,Sers,Male,41,4
+108,890123456,Amani,Gaber,1991-01-07,33,Faiyum,Female,41,4
+109,901234567,Maged,Gouda,1990-05-20,33,Aswan,Male,41,4
+110,12345678,Asmaa,Helal,1999-07-03,24,Asyut,Female,41,4
+111,234567890,Fadi,Khedr,1998-11-16,25,Asyut,Male,41,4
+112,345678901,Yomna,Mostafa,1998-02-28,25,Aswan,Female,41,4
+113,456789012,Magdy,Ragab,1997-06-13,26,Luxor,Male,41,4
+114,678901234,Sameh,Shalaby,1995-12-26,28,Aswan,Male,41,4
+115,789012345,Dalia,Zaki,1994-04-09,29,Gharbia,Female,41,5
+116,890123456,Hesham,Nassar,1993-08-22,30,Qalyubia,Male,41,5
+117,901234567,Nouran,Fathy,1992-12-05,31,Kafr El Sheikh,Female,41,5
+118,12345678,Emad,Abdelmegid,1992-01-18,32,Sharqia,Male,41,5
+119,234567890,Yasmeen,Elshenawy,1991-05-31,32,Monufia,Female,41,5
+120,345678901,Tamer,Elbadrawy,1990-10-12,33,Damietta,Male,41,5
+121,456789012,Eman,Elhennawy,1999-01-24,25,Sohag,Female,41,5
+122,567890123,Hazem,Elabbasy,1998-06-07,25,Aswan,Male,41,5
+123,678901234,Malak,Elsherbasy,1997-10-20,26,Beheira,Male,41,5
+124,789012345,Salah,Elhaddad,1997-02-02,27,Luxor,Male,41,5
+125,890123456,Heba,Elganainy,1996-06-16,27,Red Sea,Female,41,5
+126,901234567,Amira,Eltahan,1995-08-30,28,New Valley,Female,41,5
+127,12345678,Mamdouh,Elsabagh,1994-01-12,30,Matruh,Male,41,5
+128,234567890,Farah,Elgabry,1993-05-25,30,North Sinai,Female,41,6
+129,345678901,Ahmed,Elshabrawy,1992-09-06,31,South Sinai,Male,42,6
+130,456789012,Mona,Elgarawany,1991-11-19,32,Qena,Female,42,6
+131,567890123,Rafik,Elsharawy,1991-04-03,32,Menoufia,Male,42,6
+132,678901234,Aya,Elmoselhy,1990-08-16,33,Port Said,Female,42,6
+133,789012345,Kareem,Elsaidy,1999-10-29,24,Ismailia,Male,42,6
+134,890123456,Rasha,Eltoukhy,1998-03-13,25,Fayoum,Female,42,6
+135,901234567,Tarek,Elhalwany,1997-07-26,26,Beni Suef,Male,42,6
+136,12345678,Hoda,Elsherbasy,1996-12-09,27,Sohag,Female,42,6
+137,234567890,Omar,Elbeleidy,1996-02-22,27,Minya,Male,42,6
+138,345678901,Maha,Elzoghbi,1995-06-07,28,Aswan,Female,42,6
+139,456789012,Akram,Elramly,1994-10-20,29,Damietta,Male,42,6
+140,567890123,Salma,Elbeir,1993-02-01,31,Port Said,Female,42,1
+141,678901234,Mahmoud,Elsheemy,1992-04-15,31,Beni Suef,Male,42,1
+142,789012345,Nour,Elbehey,1991-08-28,32,Red Sea,Female,42,1
+143,890123456,Sherif,Elbohy,1990-01-08,34,Matruh,Male,42,1
+144,901234567,Hend,Elbennawy,1999-03-23,24,Aswan,Female,42,1
+145,12345678,Adel,Elguindy,1998-07-06,25,Fayoum,Male,42,1
+146,234567890,Mariam,Elmessiry,1997-11-19,26,Ismailia,Female,42,1
+147,345678901,Hisham,Elghandour,1997-01-02,27,South Sinai,Male,42,1
+148,456789012,Nourhan,Elganzoury,1996-05-16,27,Qena,Female,42,1
+149,567890123,Islam,Elabady,1995-09-29,28,Gharbia,Male,42,1
+150,678901234,Samar,Elbaroudy,1994-12-12,29,New Valley,Female,42,1
+151,789012345,Karim,Elshamy,1994-04-25,29,Monufia,Male,42,2
+152,890123456,Dina,Elghazawy,1993-09-07,30,North Sinai,Female,42,2
+153,901234567,Hassan,Elsakhawy,1993-01-20,31,Qalyubia,Male,42,2
+154,12345678,Esraa,Elzamzamy,1992-05-03,31,Kafr El Sheikh,Female,42,2
+155,234567890,Yara,Elroby,1991-09-16,32,Luxor,Female,42,2
+156,345678901,Mohamed,Elagamy,1990-12-30,33,Sharqia,Male,42,2
+157,456789012,Fatma,Elabbar,1999-02-12,24,Beheira,Female,42,2
+158,567890123,Mohamed,Elgallad,1998-06-27,25,Damietta,Male,42,2
+159,678901234,Noura,Elwan,1997-11-10,26,Sohag,Female,42,2
+160,789012345,Emad,Elshenety,1997-03-24,26,Aswan,Male,42,2
+161,890123456,Yomna,Eldeeb,1996-07-06,27,Red Sea,Female,42,2
+162,901234567,Walid,Elmaghraby,1995-11-19,28,Matruh,Male,42,2
+163,12345678,Nada,Elzohiry,1995-03-03,28,New Valley,Female,42,3
+164,234567890,Fadi,Elsayed,1994-07-16,29,North Sinai,Male,42,3
+165,345678901,Mayar,Elbedeawy,1993-11-29,30,Beni Suef,Female,42,3
+166,456789012,Amr,Elansary,1993-04-12,30,Port Said,Male,42,3
+167,567890123,Hadeer,Eltaweel,1992-08-25,31,Minya,Female,42,3
+168,678901234,Ghada,Elshorbagy,1992-01-07,32,Fayoum,Female,42,3
+169,789012345,Yasser,Elsherbini,1991-05-21,32,Ismailia,Male,42,3
+170,890123456,Ghina,Elgawad,1990-09-03,33,South Sinai,Female,42,3
+171,901234567,Walid,Elgohary,1999-11-17,24,Gharbia,Male,42,3
+172,12345678,Ghada,Eltokhy,1999-04-01,24,Qena,Female,42,3
+173,298745123,Sherif,Elboraie,1998-08-15,25,Qalyubia,Male,42,3
+174,157826391,Hadeer,Elbehiry,1998-12-28,25,Kafr El Sheikh,Female,42,3
+175,463912085,Yasser,Elsamy,1998-02-10,25,Sharqia,Male,42,3
+176,720639451,Amani,Elganzouri,1997-06-25,26,Monufia,Female,42,3
+177,846295713,Maged,Elbassuoni,1996-11-08,27,Beheira,Male,42,4
+178,532186947,Asmaa,Eladl,1996-01-22,28,Damietta,Female,42,4
+179,917463058,Fadi,Elshekh,1995-06-06,28,Sohag,Male,42,4
+180,681378291,Yomna,Elsaidy,1994-10-19,29,Aswan,Female,42,4
+181,375891462,Magdy,Elgindy,1994-02-01,30,Red Sea,Male,42,4
+182,209578346,Nada,Elnefawy,1993-06-16,30,Matruh,Female,42,4
+183,614283957,Sameh,Elmesiry,1992-10-29,31,New Valley,Male,42,4
+184,384917265,Dalia,Elghoroury,1992-03-13,31,North Sinai,Female,42,4
+185,750468123,Hesham,Elghanam,1991-07-25,32,Beni Suef,Male,42,4
+186,482751396,Nouran,Elkhawaga,1990-12-08,33,Port Said,Female,42,4
+187,195684273,Emad,Elkhawanky,1999-02-20,24,Minya,Male,42,4
+188,823516974,Yasmeen,Elsharkawy,1998-07-05,25,Fayoum,Female,42,4
+189,367925184,Tamer,Elshelb,1997-11-18,26,Ismailia,Male,42,4
+190,619438725,Eman,Elsherif,1997-03-04,26,South Sinai,Female,42,4
+191,475819362,Hazem,Elbanhawy,1996-07-18,27,Gharbia,Male,42,5
+192,836192547,Malak,Elshokary,1995-11-30,28,Qena,Female,42,5
+193,592346871,Salah,Elshorbagi,1995-04-14,28,Qalyubia,Male,42,5
+194,184769532,Heba,Elkholy,1994-08-27,29,Kafr El Sheikh,Female,42,5
+195,956234817,Amira,Eltaher,1993-01-09,31,Sharqia,Female,42,5
+196,327598164,Mamdouh,Elshimy,1992-05-23,31,Monufia,Male,42,5
+197,748153962,Farah,Elsayed,1991-10-05,32,Beheira,Female,42,5
+198,281679354,Ahmed,Elsharif,1991-02-17,32,Damietta,Male,42,5
+199,539862471,Mona,Elhalaby,1990-06-02,33,Sohag,Female,42,5

@@ -1,0 +1,97 @@
+Question_id,Question_Type,Question_Modelanswer,Question,Course_id
+1,MCQ,DML (Data Manipulation Langauge), The ability to query data as well as insert delete and alter tuples is offered by ____________,7
+2,MCQ,Super key, is a set of one or more attributes taken collectively to uniquely identify a record.,7
+3,MCQ,Drop table,Which command is used to remove a relation from an SQL?,7
+4,MCQ,Having, After groups have been established SQL applies predicates in the ___________ clause allowing aggregate functions to be used.,7
+5,MCQ,<dfn>,For explaining which new technology is used?,7
+6,MCQ,<s>,Which element indicates about something which is no longer accurate?,7
+7,MCQ,color,Metadata does not define,7
+8,MCQ,<hr>,In HTML5 which element defines thematic change in the content?,7
+9,MCQ,<a>,Which element is used for creating links?,7
+10,MCQ,link other pages within the same site,Relative URLs are used to,7
+11,MCQ,blue,What is the color of an unvisited link?,7
+12,MCQ,Dennis Ritchie,Who is the father of C language?,7
+13,MCQ,int $main;,Which of the following is not a valid C variable name?,7
+14,MCQ,LowerCase letters,All keywords in C are in,7
+15,MCQ,Variable names cannot start with a digit,Which of the following is true for variable names in C?,7
+16,MCQ,int my_num = 100000;,Which is valid C expression?,7
+17,MCQ,volatile,Which of the following cannot be a variable name in C?,7
+18,True/false,FALSE,It is mandatory to define constraint for each attribute of a table.,7
+19,True/false,FALSE,Each table can contain more than one primary key.,7
+20,True/false,TRUE,SQL Server automatically sets the NOT NULL constraint for all the primary key columns if the NOT NULL constraint is not specified for these columns.,7
+21,True/false,TRUE,Unique constraints ensures that all the values in a column are distinct/unique.,7
+22,True/false,TRUE,The result of a SELECT statement can contain duplicate rows.,7
+23,True/false,FALSE,Primary Key does allow the Null Values. where as in Unique key doesn't accept the Null values,7
+24,True/false,FALSE,A NULL value is treated as a blank or zero.,5
+25,True/false,TRUE,By default each attribute can take NULL values except for the primary key.,5
+26,True/false,TRUE,A relation may have multiple foreign keys.,5
+27,True/false,TRUE,We can use DROP statement to remove a database or table permanently from the system.,5
+28,MCQ,Database Management System,What is the full form of DBMS?,5
+29,MCQ,Organized collection of data or information that can be accessed updated and managed,What is a database?,5
+30,MCQ,DBMS stores modifies and retrieves data,What is DBMS?,5
+31,MCQ,All of the above,Which type of data can be stored in the database?,5
+32,True/false,TRUE,Encapsulation is one of the four pillars of object-oriented programming,5
+33,True/false,FALSE,Inheritance allows a class to inherit properties and behaviors from multiple parent classes,5
+34,True/false,TRUE,Polymorphism refers to the ability of an object to take on many forms,3
+35,True/false,TRUE,Overloading allows a class to have multiple methods with the same name but different parameters,3
+36,True/false,TRUE,Abstraction is the process of hiding the internal implementation details of a class,3
+37,True/false,TRUE,"In Java the ""super"" keyword is used to refer to the superclass of a derived class",3
+38,True/false,FALSE,A static method can access instance variables without creating an instance of the class,3
+39,True/false,TRUE,In object-oriented programming a constructor is a special method used to create objects,3
+40,True/false,TRUE,"The ""final"" keyword in Java is used to indicate that a variable's value cannot be changed",3
+41,True/false,TRUE,Inheritance promotes code reusability and extensibility in object-oriented programming,3
+42,MCQ,new,Which keyword is used to create an instance of a class in Java,3
+43,MCQ,finalize(),Which method is called automatically when an object is no longer referenced and needs,3
+44,MCQ,Inheritance,Which concept allows a class to inherit properties and behaviors from multiple parent,3
+45,MCQ,.,Which operator is used to access a member of an object in C++?,3
+46,MCQ,Polymorphism,Which term refers to the ability of an object to exhibit multiple forms based on its,3
+47,MCQ,final,Which keyword is used to prevent a method from being overridden in a derived class?,3
+48,MCQ,constructor,Which method is automatically called when an object is created from a class?,3
+49,MCQ,default,Which access modifier allows a class member to be accessed only within the same,3
+50,MCQ,Inheritance,What is the process of creating a new class based on an existing class called?,3
+51,MCQ,Modularity,Which of the following is NOT a fundamental principle of object-oriented programming?,3
+52,True/false,TRUE,The C programming language was developed by Dennis Ritchie,3
+53,True/false,TRUE,C is a high-level programming language,3
+54,True/false,TRUE,"In C the ""sizeof"" operator returns the size of a variable in bytes",2
+55,True/false,FALSE,C supports object-oriented programming (OOP) features,2
+56,True/false,TRUE,"C programs must always include a ""main"" function",2
+57,True/false,TRUE,C is a strongly typed language,2
+58,True/false,FALSE,"The ""switch"" statement in C can only be used with integer types",2
+59,True/false,FALSE,C supports pass-by-reference for function arguments,2
+60,True/false,TRUE,C allows multiple levels of nesting for if-else statements,2
+61,True/false,FALSE,C provides built-in support for handling exceptions,2
+62,MCQ,break,Which statement is used to terminate a loop in C?,2
+63,MCQ,int array[10];,What is the correct syntax for declaring an array in C?,2
+64,MCQ, stdio.h,Which header file is used for input/output operations in C?,2
+65,MCQ,To allocate memory dynamically,"What is the purpose of the ""malloc"" function in C?",2
+66,MCQ, &,Which operator is used to access the value at a given memory address in C?,2
+67,True/false,TRUE,SQL stands for Structured Query Language,2
+68,True/false,TRUE,SQL is a programming language used for managing relational databases,2
+69,True/false,TRUE,In SQL the SELECT statement is used to retrieve data from a database,2
+70,True/false,FALSE,NoSQL databases use a tabular structure to store data,2
+71,True/false,TRUE,PostgreSQL is an example of a relational database management system (RDBMS),2
+72,True/false,TRUE,ACID is an acronym that stands for Atomicity Consistency Isolation and Durability,2
+73,True/false,TRUE,A primary key in a database table uniquely identifies each record in the table,2
+74,True/false,TRUE,In SQL the JOIN keyword is used to combine records from two or more tables based on a related column between them,2
+75,True/false,TRUE,MongoDB is an example of a document-oriented NoSQL database,1
+76,True/false,TRUE,A database index improves database performance by allowing faster retrieval of data,1
+77,MCQ,INSERT,Which SQL keyword is used to insert data into a database table?,1
+78,MCQ,CHARACTER,Which of the following is not a valid data type in SQL?,1
+79,MCQ,Deletes a database table,"What does the SQL command ""DROP"" do?",1
+80,MCQ,MongoDB,Which of the following is a NoSQL database?,1
+81,MCQ,UPDATE,Which SQL statement is used to update data in a database table?,1
+82,True/false,TRUE,HTML stands for Hypertext Markup Language,1
+83,True/false,FALSE,HTML is a programming language,1
+84,True/false,TRUE,HTML tags are surrounded by angle brackets (< and >),1
+85,True/false,TRUE,HTML is primarily used for defining the structure and content of web pages,1
+86,True/false,TRUE,CSS is used to define the visual styling of HTML elements,1
+87,True/false,FALSE,The <head> element in HTML contains the visible content of a web page,1
+88,True/false,TRUE,HTML tables are used to display tabular data,1
+89,True/false,FALSE,The <img> tag is used to embed audio files in HTML,1
+90,True/false,TRUE,HTML5 is the latest version of HTML,1
+91,True/false,TRUE,HTML supports embedding JavaScript code directly within the HTML document,1
+92,MCQ,<ul>,Which tag is used to define an unordered list in HTML?,1
+93,MCQ,href,Which attribute is used to specify the target URL for a hyperlink in HTML?,1
+94,MCQ,<section>,Which element is used to define a section in an HTML document?,1
+95,MCQ,Cascading Style Sheet,"What does the HTML acronym ""CSS"" stand for?",1
+96,MCQ,<br>,Which tag is used to define a line break in HTML?,1

@@ -1,0 +1,175 @@
+Hiring_ID,Position,Hiring_Date,Company,Location,Position_Type,ST_ID
+1,Data Management Specialist,6/14/2021,Onecard,Remote,Full Time,40
+2,Junior Data Scientist - Temporary Role,9/3/2021,ITCan,On-Site,Full Time,150
+3,BI Data Analytics Engineer,11/1/2021,Emaxit,Remote,Full Time,130
+4,Data Analyst,1/6/2022,TechRoots,Remote,Full Time,165
+5,Senior Web Designer,4/12/2022,Arabian Advanced Systems,Remote,Full time,125
+6,BI Data Analytics Engineer,7/25/2022,ECH,Remote,Full time,17
+7,Data Analyst,8/20/2022,Union Coop,On-Site,Full time,44
+8,BI Data Analytics Engineer,9/14/2022,Ditech Egypt,On-Site,Full time,58
+9,Data Analyst,9/25/2022,LINK Development,On-Site,Full Time,180
+10,Senior frontend web developer ( ReactJS-React Native),11/13/2022,Lgorithma,On-Site,Full Time,155
+11,BI Developer,12/7/2022,Arabian Advanced Systems,Remote,Full Time,137
+12,Junior Web Developer (Back-End) - Alexandria,12/19/2022,Kandil Industries,On-Site,Full Time,38
+13,Junior Web Developer (Back-End) - Alexandria,4/8/2023,Maadi plotting Center,On-Site,Part Time,94
+14,Data Management Specialist,4/20/2023,Cleopatra Cement,On-Site,Full time,187
+15,Senior Business Intelligence Specialist,6/14/2021,BI-Technologies,Remote,Part Time,29
+16,Financial Planning And Analysis,9/3/2021,Emaxit,Remote,Full Time,70
+17,Senior Web Designer,11/1/2021,Confidential,Remote,Freelance Project,129
+18,Senior Web Designer,1/6/2022,Trendster,Remote,Full Time,148
+19,Web Developer,4/12/2022,ITCan,Remote,Freelance Project,14
+20,Junior Data Scientist - Temporary Role,7/25/2022,Confidential,On-Site,Freelance Project,72
+21,Senior BI Developer,8/20/2022,BI-Technologies,NULL,Full Time,8
+22,Data Scientist,9/14/2022,Lumin,Remote,Full time,153
+23,Application Support Engineer,9/25/2022,Union Coop,Remote,Full time,90
+24,Hr Planning Specialist,11/13/2022,ITCan,On-Site,Full Time,156
+25,Solution Specialist (Ax Developer),12/7/2022,Kandil Industries,On-Site,Full Time,141
+26,Web Developer,12/19/2022,ITCan,Remote,Full Time,11
+27,Junior Web Developer (Back-End) - Alexandria,4/8/2023,Confidential,Remote,Full Time,74
+28,Senior Business Intelligence Specialist,4/20/2023,PAFT,Remote,Part Time,91
+29,Junior Web Developer (Back-End) - Alexandria,6/14/2021,Arabian Advanced Systems,On-Site,Part Time,178
+30,Web Developer,9/3/2021,Ditech Egypt,Remote,Full Time,196
+31,Senior ETL Developer,11/1/2021,Edentech,On-Site,Part Time,173
+32,Fleet Data Analyst,1/6/2022,AGG Information Technology,Remote,Part Time,120
+33,Data Scientist Manager,4/12/2022,Premier Services and Recruitment Overseas,Remote,Full Time,124
+34,Senior frontend web developer ( ReactJS-React Native),7/25/2022,Confidential,On-Site,Full Time,69
+35,Senior Full Stack (.Net/Angular) Web Developer,8/20/2022,wolfers,Remote,Full time,33
+36,Senior web developer,9/14/2022,Andalusia Group,On-Site,Part Time,182
+38,Solution Specialist (Ax Developer),11/13/2022,SSC Egypt,Remote,Part Time,138
+39,Financial planning and analysis Manager,12/7/2022,Emaxit,Remote,Full Time,197
+40,Power BI Developer,12/19/2022,Ghabbour Auto,On-Site,Full Time,167
+41,Junior Data Scientist/ML Engineer,4/8/2023,Lumin,Remote,Part Time,23
+42,Data Analyst,4/20/2023,wolfers,On-Site,Full Time,66
+43,.net web developer,6/14/2021,ITCan,On-Site,Full Time,47
+44,Web/Hybrid App Developer (Angular,9/3/2021,Confidential,Remote,Part Time,20
+45,Data Analyst,11/1/2021,Trendster,On-Site,Part Time,106
+46,Web/Hybrid App Developer (Angular,1/6/2022,Premier Services and Recruitment,On-Site,Full Time,135
+47,Web/Hybrid App Developer (Angular,4/12/2022,Confidential,On-Site,Full Time,118
+48,Data Analyst,7/25/2022,Emaxit,On-Site,Full Time,179
+49,.net web developer,8/20/2022,AGG Information Technology,Remote,Full Time,92
+50,BI Data Analytics Engineer,9/14/2022,ITCan,Remote,Full Time,61
+51,Junior Data Scientist - Temporary Role,9/25/2022,Lumin,On-Site,Full time,65
+52,Solution Specialist (Ax Developer),11/13/2022,TechRoots,On-Site,Full Time,195
+53,BI Data Analytics Engineer,12/7/2022,3S Software,On-Site,Full Time,175
+54,Power BI Developer,12/19/2022,Premier Services and Recruitment Overseas,Remote,Part Time,54
+55,Data Analyst,4/8/2023,Trendster,On-Site,Full Time,76
+56,Senior BI Developer,4/20/2023,Seoudi Supermarket,On-Site,Full Time,172
+57,Hr Planning Specialist,6/14/2021,Arabic Localizer,On-Site,Full Time,128
+58,Junior Data Scientist - Temporary Role,9/3/2021,Confidential,On-Site,Full Time,132
+59,Data Analyst,11/1/2021,Premier Services and Recruitment,NULL,Part Time,19
+60,Data Scientist Manager,8/20/2022,Premier Services and Recruitment Overseas,Remote,Part Time,1
+61,Senior BI Developer,9/14/2022,3S Software,On-Site,Full Time,43
+62,Senior Web Designer,9/25/2022,Seoudi Supermarket,On-Site,Full Time,46
+63,Hr Planning Specialist,11/13/2022,Andalusia Group,On-Site,Full time,41
+64,Data Analyst,12/7/2022,Onecard,On-Site,Full Time,186
+65,Full Stack Web Developer,12/19/2022,Trendster,On-Site,Full Time,147
+66,Senior Full Stack (.Net/Angular) Web Developer,4/8/2023,B.Tech,On-Site,Full Time,108
+67,Power BI Developer,4/20/2023,JoviTronix,On-Site,Full Time,59
+68,Fleet Data Analyst,6/14/2021,Lumin,On-Site,Full Time,112
+69,Power BI Developer,9/3/2021,Carina Wear,Remote,Full Time,131
+70,Full Stack Web Developer,11/1/2021,Cleopatra Cement,On-Site,Part Time,34
+71,Web Developer,1/6/2022,ITCan,Remote,Freelance Project,7
+72,Business Intelligence Developer,4/12/2022,TechRoots,On-Site,Full Time,119
+73,Junior Web Developer (Back-End) - Alexandria,7/25/2022,wolfers,Remote,Full Time,188
+74,Junior Web Developer (Back-End) - Alexandria,8/20/2022,PAFT,Remote,Full Time,144
+75,Senior Full Stack (.Net/Angular) Web Developer,9/14/2022,Maadi plotting Center,Remote,Full Time,84
+76,Senior Web Designer,9/25/2022,Andalusia Group,NULL,Full Time,96
+77,Senior web developer,11/13/2022,Lumin,Remote,Full Time,177
+78,Senior Full Stack (.Net/Angular) Web Developer,12/7/2022,Confidential,On-Site,Full Time,183
+79,Financial planning and analysis Manager,12/19/2022,Lumin,Remote,Full Time,110
+80,.net web developer,4/8/2023,Gap Polymers,Remote,Part time,78
+81,Senior Market Research & Data Analyst,4/20/2023,Premier Services and Recruitment Overseas,Remote,Freelance Project,64
+82,Application Support Engineer,6/14/2021,Union Coop,On-Site,Full Time,9
+83,Web/Hybrid App Developer (Angular,9/3/2021,LINK Development,On-Site,Full Time,25
+84,Power BI Developer,11/1/2021,3S Software,Remote,Full Time,127
+85,Hr Planning Specialist,1/6/2022,Confidential,Remote,Full Time,109
+86,Junior Web Developer (Back-End) - Alexandria,4/12/2022,Centro CDX,On-Site,Full Time,50
+87,Senior BI Developer,7/25/2022,SSC Egypt,Remote,Full Time,2
+88,Senior web developer,8/20/2022,Kandil Industries,Remote,Full Time,199
+89,Power BI Developer,9/14/2022,Union Coop,On-Site,Freelance Project,83
+90,Senior web developer,9/25/2022,Union Coop,Remote,Full Time,86
+91,Web Developer,11/13/2022,Ultimate Solutions,Remote,Part Time,42
+92,Master Data Analytics and Insights Senior Officer,12/7/2022,Lumin,Remote,Full Time,79
+93,BI Developer,12/19/2022,Confidential,Remote,Full Time,163
+94,Master Data Analytics and Insights Senior Officer,4/8/2023,Onecard,On-Site,Full Time,100
+95,Financial Planning And Analysis,4/20/2023,Andalusia Group,On-Site,Full Time,123
+96,Python Backend Web Developer (Django Rest Framework),6/14/2021,Arabic Localizer,NULL,Full Time,53
+97,Senior frontend web developer ( ReactJS-React Native),9/3/2021,BI-Technologies,On-Site,Full Time,82
+98,Data Analyst,11/1/2021,AGG Information Technology,On-Site,Full Time,73
+99,Solution Specialist (Ax Developer),1/6/2022,Premier Services and Recruitment,On-Site,Full Time,149
+100,Junior Data Scientist/ML Engineer,4/12/2022,Confidential,On-Site,Full Time,51
+101,Web Developer,7/25/2022,Digital Oarks,On-Site,Full Time,185
+102,Junior Back End Web Developer 22005,8/20/2022,Premier Services and Recruitment,Remote,Freelance Project,18
+103,Solution Specialist (Ax Developer),9/14/2022,Union Coop,On-Site,Part Time,189
+104,Data Scientist Manager,9/25/2022,Ultimate Solutions,On-Site,Full Time,45
+105,Data Analyst,11/13/2022,Cleopatra Cement,Remote,Full Time,107
+106,Power BI Developer,12/7/2022,Gap Polymers,On-Site,Freelance Project,121
+107,Financial planning and analysis Manager,12/19/2022,SSC Egypt,Remote,Freelance Project,136
+108,Full Stack Web Developer,4/8/2023,B.Tech,On-Site,Full Time,68
+109,Web Developer,4/20/2023,TechRoots,Remote,Part Time,105
+110,Fleet Data Analyst,6/14/2021,PAFT,Remote,Full Time,145
+111,Data Analyst,9/3/2021,TMentors,Remote,Full Time,191
+112,Web Developer,11/1/2021,AGG Information Technology,Remote,Full Time,198
+113,Python Backend Web Developer (Django Rest Framework),1/6/2022,Maadi plotting Center,Remote,Full Time,152
+114,Web Developer,4/12/2022,PAFT,On-Site,Full Time,103
+115,Fleet Data Analyst,7/25/2022,LINK Development,Remote,Full Time,193
+116,Python Backend Web Developer (Django Rest Framework),8/20/2022,Ultimate Solutions,Remote,Full Time,161
+117,Application Support Engineer,9/14/2022,Union Coop,Remote,Part Time,13
+118,Application Support Engineer,9/25/2022,Carina Wear,Remote,Full Time,194
+119,Web Developer,11/13/2022,JoviTronix,Remote,Part time,87
+120,Senior Web Designer,12/7/2022,Premier Services and Recruitment Overseas,Remote,Part time,164
+121,Power BI Developer,12/19/2022,Johnson Controls,Remote,Full Time,159
+122,Data Analyst,4/8/2023,Lumin,NULL,Part Time,56
+123,Senior BI Developer,4/20/2023,Digital Oarks,On-Site,Full Time,28
+124,Full Stack Web Developer,6/14/2021,Seoudi Supermarket,On-Site,Full Time,101
+125,Data Analyst,9/3/2021,AGG Information Technology,On-Site,Full time,170
+126,Hr Planning Specialist,11/1/2021,Premier Services and Recruitment,Remote,Full Time,27
+127,Junior Back End Web Developer 22005,1/6/2022,Union Coop,Remote,Full time,122
+128,Head of Data team,4/12/2022,AGG Information Technology,On-Site,Part Time,71
+129,Financial Planning And Analysis,7/25/2022,wolfers,Remote,Full Time,81
+130,Application Support Engineer,8/20/2022,LINK Development,On-Site,Full Time,88
+131,Data Analyst,9/14/2022,PAFT,Remote,Full Time,139
+132,Fleet Data Analyst,9/25/2022,Ditech Egypt,Remote,Part Time,26
+133,BI Data Analytics Engineer,11/13/2022,Premier Services and Recruitment Overseas,Remote,Full Time,62
+134,Full Stack Web Developer (NODE.JS & React) - Canada Team),12/7/2022,JoviTronix,On-Site,Full Time,157
+135,Senior Market Research & Data Analyst,12/19/2022,Tamweely,On-Site,Full Time,140
+136,Web Developer,4/8/2023,TMentors,On-Site,Freelance Project,30
+137,Data Management Specialist,4/20/2023,Premier Services and Recruitment Overseas,Remote,Full time,32
+138,Senior Full Stack (.Net/Angular) Web Developer,6/14/2021,Union Coop,Remote,Full Time,143
+139,Hr Planning Specialist,9/3/2021,BI-Technologies,On-Site,Part Time,4
+140,Senior BI Developer,11/1/2021,PAFT,Remote,Full Time,126
+141,Fleet Data Analyst,1/6/2022,Union Coop,Remote,Full Time,134
+142,Senior ETL Developer,4/12/2022,Union Coop,On-Site,Full Time,158
+143,Data Analyst,7/25/2022,B.Tech,Remote,Full Time,102
+144,Junior Data Scientist/ML Engineer,8/20/2022,Confidential,Remote,Full Time,114
+145,Data Scientist,9/14/2022,Confidential,Remote,Full Time,24
+146,Head of Data team,9/25/2022,Premier Services and Recruitment,Remote,Full Time,21
+147,Data Scientist,11/13/2022,Gap Polymers,On-Site,Full Time,133
+148,Senior web developer,12/7/2022,Confidential,On-Site,Full Time,162
+149,.net web developer,12/19/2022,Confidential,Remote,Full Time,154
+150,Financial Planning And Analysis,4/8/2023,Premier Services and Recruitment,NULL,Part Time,166
+151,Data Scientist,4/20/2023,Trendster,Remote,Full Time,60
+152,Senior Full Stack (.Net/Angular) Web Developer,6/14/2021,BI-Technologies,On-Site,Full Time,171
+153,Senior frontend web developer ( ReactJS-React Native),9/3/2021,Ghabbour Auto,Remote,Full Time,174
+154,Full Stack Web Developer (NODE.JS & React) - Canada Team),11/1/2021,PAFT,NULL,Part Time,151
+155,Power BI Developer,1/6/2022,Arabian Advanced Systems,Remote,Full Time,5
+156,Full Stack Web Developer (NODE.JS & React) - Canada Team),4/12/2022,Ultimate Solutions,On-Site,Full Time,63
+157,Data Analyst,7/25/2022,Trendster,Remote,Full Time,97
+158,Hr Planning Specialist,8/20/2022,Ditech Egypt,On-Site,Full Time,169
+159,Junior Back End Web Developer 22005,9/14/2022,Confidential,Remote,Full Time,3
+160,Web/Hybrid App Developer (Angular,9/25/2022,Andalusia Group,Remote,Freelance Project,89
+161,Data Analyst,11/13/2022,Centro CDX,On-Site,Full Time,192
+162,Application Support Engineer,12/7/2022,Ultimate Solutions,On-Site,Full Time,99
+163,Python Backend Web Developer (Django Rest Framework),12/19/2022,Johnson Controls,Remote,Freelance Project,31
+164,Full Stack Web Developer (NODE.JS & React) - Canada Team),4/8/2023,LINK Development,Remote,Full Time,37
+165,Full Stack Web Developer,4/20/2023,Union Coop,Remote,Full Time,176
+166,Full Stack Web Developer,6/14/2021,Lgorithma,On-Site,Freelance Project,52
+167,.net web developer,9/3/2021,Premier Services and Recruitment Overseas,On-Site,Full Time,98
+168,Senior Market Research & Data Analyst,11/1/2021,TMentors,On-Site,Full time,116
+169,Solution Specialist (Ax Developer),1/6/2022,Digital Oarks,Remote,Full Time,39
+170,Junior Web Developer (Back-End) - Alexandria,4/12/2022,BI-Technologies,On-Site,Full Time,22
+171,Data Analyst,7/25/2022,Union Coop,On-Site,Full Time,80
+172,Full Stack Web Developer (NODE.JS & React) - Canada Team),8/20/2022,TechRoots,Remote,Full Time,184
+173,Senior Market Research & Data Analyst,9/14/2022,Trendster,Remote,Full Time,113
+174,Senior Market Research & Data Analyst,9/25/2022,Ultimate Solutions,On-Site,Freelance Project,93
+175,Power BI Developer,11/13/2022,Union Coop,Remote,Full Time,104

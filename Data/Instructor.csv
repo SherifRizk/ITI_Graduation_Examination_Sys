@@ -1,0 +1,16 @@
+Instructor_ID,Instructor_Fname,Instructor_Lname,Instuctor_Age,Instructor_BirthDate,Instructor_Gender,Salary,City,Hire_Date,Dept_ID
+1,Ahmed,Hassan,30,1/1/1965,m,1000,Cairo,1/1/2000,10
+2,Hany,Magdy,26,3/18/1973,m,2000,Mansoura,10/2/2002,10
+3,Reham,Saleh,40,10/15/1970,f,3000,Cairo,5/4/2008,10
+4,Yasmin,Mohamed,23,9/14/1963,f,3222,Alex,1/1/2009,10
+5,Amany,Moahmed,28,8/19/1972,f,4000,Alex,1/1/2001,10
+6,Eman,Farouk,28,6/4/1980,f,7000,Cairo,10/2/2006,10
+7,Saly,Hussien,27,12/6/1982,f,3000,Alex,5/4/2008,10
+8,Amr,Fars,38,1/2/1975,m,6000,Cairo,1/1/2009,30
+9,Hussien,Ahmed,28,8/19/1972,m,8000,Mansoura,1/1/2010,50
+10,Khalid,Ali,24,6/4/1985,m,5000,sohag,1/1/2020,30
+11,Salah,Ahmed,28,12/6/1992,m,2000,luxor,10/2/2022,70
+12,Adel,Omar,27,1/2/1995,m,5000,qena,5/4/2018,70
+13,Fakry,Hussien,28,8/19/1982,m,1000,Cairo,1/1/2019,20
+14,Amena,Saleh,29,6/4/1990,f,9000,Alex,1/1/2020,20
+15,Ghada,sayed,29,12/6/1997,f,6000,Alex,10/2/2012,40
