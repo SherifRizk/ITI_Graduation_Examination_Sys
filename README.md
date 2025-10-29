@@ -6,6 +6,8 @@ The examination system is a streamlined method for performing examination-relate
 
 This project is a comprehensive digital examination system developed for the Information Technology Institute (ITI). It provides a complete solution for creating, managing, and administering online examinations with features including automatic grading, result reporting, and data analytics.
 
+## 🔗 [Dashboard Link](https://project.novypro.com/MquSSH)
+
 ## Technologies Used
 
 - **Backend**: Python Flask web framework
